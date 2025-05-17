@@ -36,7 +36,7 @@ I love learning new things, solving problems, and collaborating with others to c
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](www.linkedin.com/in/sergio-manuel-hernandez-chi-712629128)
-- ✉️ Email: sergiohdez.chi@gmail.com *(optional)*
+- ✉️ Email: sergiohdez.chi@gmail.com
 
 ---
 
