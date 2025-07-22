@@ -32,12 +32,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web. M
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiohdezchi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiohdezchi&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🌟 Proyectos Destacados
 
